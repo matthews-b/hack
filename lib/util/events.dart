@@ -1,0 +1,38 @@
+List events = [
+  {
+    "img": "assets/food1.jpeg",
+    "title": "Braai day Sundays With Music Flai",
+    "short":"Braai day Sundays...",
+    "address": "1057 Arcadia Street, Hatfield",
+    "price": "NA",
+    "date": "2019-07-28 14:00:00",
+    "details": "The Blueroom Hatfield presents Sunday Chillas with Music flairSunday 28 JulyVIP table reservations available to those VVIP&#39;s who want to embark on this exclusive event.More info call De Wet on 076 550 9030 during office hoursDress to impressGents : Semi Formal & Smart Casual Ladies : Sexy & Trendy ( heels are recommended )R.O.A.RTime: 19h00-03h00Insta: @blueroom_hatfieldTwitter: @BlueRoomHatFaceBook Page: The Blue Room HatfieldBook your table at012 342 7330"
+  },
+  {
+    "img": "assets/food2.jpeg",
+    "title": "Raxon - The Lab",
+    "short": "Raxon - The Lab",
+    "address": "Alice",
+    "price": "150",
+    "date": "2019-08-14 00:00:00",
+    "details": "Event Details will be added here, explaining what the ecent is all about, including the line up as well"
+  },
+  {
+    "img": "assets/food3.jpeg",
+    "title": "Fire & Feast Meat & Food Festival 2019",
+    "short": "Fire & Feast Meat...",
+    "address": "Rosebank, Gauteng",
+    "price": "150",
+    "date": "Thu, 24 Jul 2019",
+    "details": "From Friday, 6 September to Sunday, 8 September 2019 the popular Fire & Feast Meat & Food Festival will help South Africans shake off the winter cobwebs and slide into Spring over a weekend-long love affair of meat, fire, braais and live music.The ultimate eat, meat, feast (repeat) foodie festival experience, taking place at the Ticketpro Dome, is a fusion of celebrity chefs, foodies, braai-masters, butchers and industry experts. Plus, MiCasa, Robbie Wessels, Kobus de Kock Jnr and Andre Kriel from Black Cat Bones, Catherine Grenfell and Cito and Martin from one of SA’s top rock bands – Wonderboom – are just some of the special entertainment performances included in the weekend line-up. It truly promises to be a feast for all your senses.Sponsored by Crown National, this quintessential, proudly South African festival will showcase the hottest braai products and versatile braaiing methods. In addition to the Chilli Competition fired up by Hot 91.9FM, Braai Wars between celebrities and chefs, visitor contests to crown the ‘Braai Champion’ across three disciplines; Potjie, Barbeque and Steak & Braai Broedjies, there’s also an authentic ‘Flavours of the World’ experience, promoting cultural delights from ten countries, including Thailand, Japan, Turkey, South Africa, Italy, Indian, Morocco, Mexico, Portugal and Korea. The Wine Tasting Zone, and The Jack Daniels Cave proves that there’s something for everyone at this family-friendly event.What’s more, you can learn tips and best practice from the best South African chefs, in association with SA Chefs Association. The Fire & Feast Meat & Food Festival has confirmed renowned chefs to host free cooking theatre demonstrations throughout the weekend across the six unique features, which intend to accommodate all tastes and interests namely;1.     The Poultry Theatre brought to you by Country Fair and Festive, 2.     The Beef and Lamb Cook-Off Theatre with demos by J’Something, The Bearded Chef and Chef Naledi,3.     The Pork 360 Theatre, 4.     The Beefcor Theatre, 5.     The Jacobs Coffee Theatre, which will be hosted by MasterChef judge and the Ultimate Braai Master, Pete Goffe-Wood, and his culinary teammate, Celebrity MasterChef winner and one of South Africa’s funniest comedians, Chris Forrest, and 6.     The Stella Artois Beer & Meat Pairing Theatre.More sizzling hot announcements coming soon, visit www.fireandfeast.co.za to find out more. Don’t miss out on the ultimate foodie event of the year. Fire & Feast Meat Festival Schedule Friday, 6 September: 12pm – 8pm Saturday, 7 September: 10am – 8pm Sunday, 8 September: 10am – 6pmFor more information follow Fire & Feast Meat Festival on: www.fireandfeast.co.za   Facebook: Fire and Feast Meat Festival Instagram: @fireandfeast Twitter: @fireandfeastSA"
+  },
+  {
+    "img": "assets/food4.jpeg",
+    "title": "Storytelling Workshop For Leaders",
+    "short": "Storytelling Workshop...",
+    "address": "Rosebank, Gauteng",
+    "price": "150",
+    "date": "2019-07-23 09:00:00",
+    "details": " To Grab Attention | To Trigger Change |To Inspire Action. Do you want to learn how to lead, engage and inspire people to action with a proven toolkit in the Powerful Art of Storytelling? In the two-day storytelling workshop, we work with shared intentions of increasing your impact in the world through storytelling. The purpose of storytelling is not to tell you how to think, but to tell stories that make you think! Storytelling is a powerful way to connect ideas and people. This course will help you see and understand any issue from varying perspectives; it will enable you to open your mind to new perspectives and to connect with a concept or topic on a more personal level. Two-day workshop structure? The two-day storytelling workshop is an experiential and interactive workshop that engages all six human senses.  We use music, games, objects and photos to create a safe space to explore the art of telling compelling stories that shift mindsets.  This workshop consists of a wide range of stories, including fables, folktales, and true stories. They come from various parts of the world. Each presents its own style and flavour, and each teaches us some lessons. The following aspects will be covered in the two-day workshop: What is a story? How are stories told at work different from other stories? How to choose the right story for your audience? How to grab the attention of the audience with an appropriate-powerful story? How to structure a story using the Penduka framework of storytelling? How to improve your storytelling skills with safe practice sessions? Understanding the theory of change and storytelling as a change management tool. Experiencing the power of framing and reframing.   What will you learn? You will learn how to incorporate all 5 senses in telling stories so that it triggers an emotional response from your audience. You will practice the steps in the structure of telling stories. You will learn the skill on how to drive your story toward a single unforgettable point or value.   What Will You Take Away from the Course? After attending the course, you will know how to bring dry facts and figures to life when you reframe them as human experience. Your calibration skills will be awakened, and you will know just what to do when your audience is losing interest. Walk away after the course with the confidence that you will be heard, be remembered and you will know the power of telling inspiring and compelling stories.     About the Facilitator Dan Ellappa is a Business Leadership and Executive Coach and Story Teller with over 25 years of experience in bringing about transformational change within organisations.  Head of Penduka Coaching, Dan has a Master’s Degree in Business Leadership and has spearheaded countless training for global and local organisations. Dan is an Associate Certified Meta-Coach (ACMC) with the International Society of Neuro- Semantics (ISNS), a Neuro-Semantic Trainer, and Story Teller with Points of You. Costs: R6900.00 per delegate An invoice will be sent when you confirm attendance. Payment to be made no later than the 1 July 2019 to secure your seat at this workshop   "
+  }
+];
